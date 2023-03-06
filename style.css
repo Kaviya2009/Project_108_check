@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header_div
+{
+    background-color: rgb(145, 255, 141);
+    color: green;
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: green;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(145, 255, 141);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
